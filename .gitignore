@@ -1,0 +1,21 @@
+# macOS artifacts
+.DS_Store
+
+# SSL certificates
+/ssl/*.pem
+
+# Environment files
+.env
+.env.*.local
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary and swap files
+*.tmp
+*~
+*.swp
